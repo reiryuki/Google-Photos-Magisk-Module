@@ -30,7 +30,7 @@
 - Magisk or KernelSU installed
 
 ## Installation Guide & Download Link
-- Download the right module according to your device architecture here: 
+- Download the right module according to your device architecture here: https://www.pling.com/p/2223094/
 - Install the module via Magisk app or KernelSU app or Recovery if Magisk installed
 - If you are using KernelSU, you need to disable Unmount Modules by Default in KernelSU app settings
 - Reboot
