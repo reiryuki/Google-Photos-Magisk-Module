@@ -1,1 +1,8 @@
-
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <privapp-permissions package="com.google.android.apps.photos">
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+        <!-- Not added yet in AndroidManifest.xml -->
+        <permission name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+    </privapp-permissions>
+</permissions>
