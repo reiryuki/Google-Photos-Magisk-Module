@@ -1,1 +1,1 @@
-# Magisk-Module-Template
+# Magisk Module Template
