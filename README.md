@@ -1,5 +1,7 @@
 # Google Photos Magisk Module
 
+[ DISCONTINUED BECAUSE THE LATEST VERSION OF GOOGLE PHOTOS IS ALREADY HAVE FIXED THE PERMISSION ISSUE AND INSTALLING THIS MODULE CAN EVEN CAUSE SIGNATURE ISSUE ]
+
 ## DISCLAIMER
 - Google apps are owned by Google LLC
 - The MIT license specified here is for the Magisk Module only, not for Google apps.
